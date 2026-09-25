@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Clothes Updated",
+    "slug": "clothes-updated",
+    "image": "https://placehold.co/600x400",
+    "creationAt": "2026-09-24T06:30:05.000Z",
+    "updatedAt": "2026-09-24T18:21:01.000Z"
+  },
+  {
+    "id": 2,
+    "name": "electronic",
+    "slug": "electronic",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-09-24T06:30:05.000Z",
+    "updatedAt": "2026-09-24T08:51:26.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Food & Beverages Update",
+    "slug": "food-beverages-update",
+    "image": "https://i.imgur.com/Qphac99.jpeg",
+    "creationAt": "2026-09-24T06:30:05.000Z",
+    "updatedAt": "2026-09-24T15:47:50.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Shoes",
+    "slug": "shoes",
+    "image": "https://i.imgur.com/qNOjJje.jpeg",
+    "creationAt": "2026-09-24T06:30:05.000Z",
+    "updatedAt": "2026-09-24T06:30:05.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Miscellaneous",
+    "slug": "miscellaneous",
+    "image": "https://i.imgur.com/BG8J0Fj.jpg",
+    "creationAt": "2026-09-24T06:30:05.000Z",
+    "updatedAt": "2026-09-24T06:30:05.000Z"
+  },
+  {
+    "id": 58,
+    "name": "Grosery",
+    "slug": "grosery",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-09-24T11:00:50.000Z",
+    "updatedAt": "2026-09-24T11:00:50.000Z"
+  },
+  {
+    "id": 59,
+    "name": "Computer Category",
+    "slug": "computer-category",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-09-24T11:00:52.000Z",
+    "updatedAt": "2026-09-24T11:00:52.000Z"
+  },
+  {
+    "id": 61,
+    "name": "Gadgets & Electronics #2026!",
+    "slug": "gadgets-electronics-2026",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-09-24T12:54:32.000Z",
+    "updatedAt": "2026-09-24T12:54:32.000Z"
+  },
+  {
+    "id": 95,
+    "name": "New Category Name",
+    "slug": "new-category-name",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-09-24T15:01:39.000Z",
+    "updatedAt": "2026-09-24T18:21:01.000Z"
+  },
+  {
+    "id": 126,
+    "name": "Mie Ayam Spesial",
+    "slug": "mie-ayam-spesial",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-09-24T17:01:37.000Z",
+    "updatedAt": "2026-09-24T17:01:37.000Z"
+  },
+  {
+    "id": 127,
+    "name": "samsung x",
+    "slug": "samsung-x",
+    "image": "https://i.pinimg.com/originals/3a/0b/10/3a0b10e69ee7939be690826021560ec6.jpg",
+    "creationAt": "2026-09-24T17:01:40.000Z",
+    "updatedAt": "2026-09-24T17:01:40.000Z"
+  },
+  {
+    "id": 418,
+    "name": "New Category",
+    "slug": "new-category",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-09-24T18:00:59.000Z",
+    "updatedAt": "2026-09-24T18:00:59.000Z"
+  },
+  {
+    "id": 419,
+    "name": "New Ctg",
+    "slug": "new-ctg",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-09-24T18:02:51.000Z",
+    "updatedAt": "2026-09-24T18:02:51.000Z"
+  },
+  {
+    "id": 420,
+    "name": "New Item",
+    "slug": "new-item",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-09-24T18:07:57.000Z",
+    "updatedAt": "2026-09-24T18:07:57.000Z"
+  },
+  {
+    "id": 421,
+    "name": "New Items",
+    "slug": "new-items",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-09-24T18:08:31.000Z",
+    "updatedAt": "2026-09-24T18:08:31.000Z"
+  },
+  {
+    "id": 422,
+    "name": "lipstick",
+    "slug": "lipstick",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-09-24T18:11:31.000Z",
+    "updatedAt": "2026-09-24T18:11:31.000Z"
+  },
+  {
+    "id": 423,
+    "name": "Manual Testing Category",
+    "slug": "manual-testing-category",
+    "image": "https://placehold.co/600x400",
+    "creationAt": "2026-09-24T18:16:10.000Z",
+    "updatedAt": "2026-09-24T18:16:10.000Z"
+  },
+  {
+    "id": 457,
+    "name": "Test Category Baru",
+    "slug": "test-category-baru",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-09-24T19:01:29.000Z",
+    "updatedAt": "2026-09-24T19:01:29.000Z"
+  },
+  {
+    "id": 458,
+    "name": "string",
+    "slug": "string",
+    "image": "https://pravatar.cc/",
+    "creationAt": "2026-09-24T21:02:13.000Z",
+    "updatedAt": "2026-09-24T21:02:13.000Z"
+  },
+  {
+    "id": 459,
+    "name": "category_B",
+    "slug": "category-b",
+    "image": "https://pravatar.cc/",
+    "creationAt": "2026-09-24T21:03:35.000Z",
+    "updatedAt": "2026-09-24T21:03:35.000Z"
+  }
+]
