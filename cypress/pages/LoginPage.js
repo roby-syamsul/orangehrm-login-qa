@@ -64,6 +64,19 @@ class LoginPage {
   verifyPasswordMasked() {
     this.elements.passwordInput().should("have.attr", "type", "password");
   }
+
+  // ---------- Intercept ----------
+  interceptLoginPage() {
+    cy.intercept("GET", "**/auth/login").as("getLoginPage");
+  }
+
+  interceptI18nMessages() {
+    cy.intercept("GET", "**/core/i18n/messages*").as("i18nMessages");
+  }
+
+  interceptDashboardWidgets() {
+    cy.intercept("GET", "**/api/v2/dashboard/shortcuts").as("dashboardShortcuts");
+  }
 }
 
 export default new LoginPage();

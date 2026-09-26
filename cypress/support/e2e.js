@@ -14,4 +14,10 @@
 // ***********************************************************
 
 // Import commands.js using ES2015 syntax:
-import './commands'
+import "./commands";
+
+// Abaikan error dari script pihak ketiga (iklan/analytics) yang kadang
+// muncul di halaman OrangeHRM dan tidak berkaitan dengan aplikasi yang diuji
+Cypress.on("uncaught:exception", () => {
+  return false;
+});

@@ -1,0 +1,10 @@
+{
+  "validCandidateName": "John Doe",
+  "invalidCandidateName": "KandidatTidakAda123",
+  "status": "Shortlisted",
+  "newCandidate": {
+    "firstName": "Test",
+    "lastName": "Automation",
+    "email": "test.automation@example.com"
+  }
+}
